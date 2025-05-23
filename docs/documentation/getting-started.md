@@ -4,6 +4,8 @@ excerpt: >-
   This page will help you get started with Ethan project. You'll be up and
   running in a jiffy!
 hidden: false
+next:
+  description: Introduction
 ---
 Welcome to ReadMe! :owlbert:
 
