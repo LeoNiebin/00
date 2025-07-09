@@ -1,4 +1,3 @@
-- get_collections
 - get_collections-collectionid
 - delete_collections-collectionid
 - put_collections-collectionid
