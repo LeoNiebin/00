@@ -1,4 +1,5 @@
 ---
 title: store
-hidden: false
+hidden: true
+icon: 😀
 ---
