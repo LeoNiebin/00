@@ -1,6 +1,6 @@
 ---
 title: MCP
-hidden: true
+hidden: false
 ---
 The Ethan project Model Context Protocol (MCP) server enables AI-powered code editors like Cursor and Windsurf, plus general-purpose tools like Claude Desktop, to interact directly with your Ethan project API and documentation.
 
